@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Mamba
-Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Octaconstruct - Construction & Consultancy
+Our expert team of architects and structural engineers have experience in design and construction of a wide variety of buildings. Our past projects include residential, commercial, institutional and high-rise buildings. Our practice also includes repair and rehabilitation works.
