@@ -8,6 +8,11 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+@font-face {
+  font-family: LemonMilk;
+  src: url(../css/LemonMilk.otf);
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
@@ -25,6 +30,10 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Raleway", sans-serif;
+}
+
+.lemon-milk {
+  font-family: "LemonMilk", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -118,8 +127,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   margin: 0;
   padding: 10px 0;
   line-height: 1;
-  font-weight: 400;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 
@@ -406,6 +414,13 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-weight: 900;
 }
 
+#hero h4 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 700;
+  margin-top: -25px;
+}
+
 #hero p {
   width: 80%;
   -webkit-animation-delay: 0.4s;
@@ -480,6 +495,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 @media (max-width: 768px) {
   #hero h2 {
     font-size: 28px;
+  }
+  #hero h4 {
+    font-size: 24px;
   }
 }
 
