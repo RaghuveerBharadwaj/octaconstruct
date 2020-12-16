@@ -414,7 +414,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-weight: 900;
 }
 
-#hero h4 {
+#hero .sub-title {
   color: #fff;
   font-size: 36px;
   font-weight: 700;
@@ -496,7 +496,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   #hero h2 {
     font-size: 28px;
   }
-  #hero h4 {
+  #hero .sub-title {
     font-size: 24px;
   }
 }
@@ -1385,7 +1385,7 @@ section {
 
 #footer .footer-top .footer-info h3 {
   font-size: 24px;
-  margin: 0 0 20px 0;
+  margin: 0;
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
